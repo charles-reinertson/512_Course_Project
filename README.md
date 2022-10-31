@@ -15,6 +15,8 @@ Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wi
 
 **Intermediary Data Files**
 
-    The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
-    The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021. (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
-    The New York Times mask compliance survey data. (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
+    1. The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
+    
+    2. The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021. (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
+    
+    3. The New York Times mask compliance survey data. (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
