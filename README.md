@@ -11,8 +11,6 @@ Part 3 - Presentation will require you to give a modified (shorter) PechaKucha p
 
 Part 4 - Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
 
-Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews), [endpoint](https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)) licensed under the CC-BY-SA 3.0 and GFDL licenses
-
 **Intermediary Data Files**
 
     1. The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
