@@ -15,28 +15,6 @@ Wikipedia - The Pageviews API ([documentation](https://wikitech.wikimedia.org/wi
 
 **Intermediary Data Files**
 
-    dino_monthly_mobile_<start201501>-<end202210>.json
-
-      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
-
-    dino_monthly_desktop_<start201501>-<end202210>.json
-
-      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
-
-    dino_monthly_cumulative_<start201501>-<end202210>.json
-
-      Description: JSON file with keys as dinosaurs article titles and value is a list containing a time-series of article traffic
-
-**Final Output Files**
-
-    step2_part1.png
-    
-    Time series for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access.
-    
-    step2_part2.png
-    
-    Time series for the top 10 article pages by largest (peak) page views over the entire time by access type. You first find the month for each article that contains the highest (peak) page views, and then order the articles by these peak values.
-    
-    step2_part3.png
-    
-    Time series of pages that have the fewest months of available data.
+    The RAW_us_confirmed_cases.csv file from the Kaggle repository of John Hopkins University COVID-19 data. This data is updated daily. You can use any revision of this dataset posted after October 1, 2022. (https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_deaths.csv)
+    The CDC dataset of masking mandates by county. Note that the CDC stopped collecting this policy information in September 2021. (https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
+    The New York Times mask compliance survey data. (https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv)
